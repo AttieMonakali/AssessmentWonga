@@ -1,0 +1,17 @@
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\bin\Debug\netcoreapp3.1\Sender.exe
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\bin\Debug\netcoreapp3.1\Sender.deps.json
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.json
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.dev.json
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\bin\Debug\netcoreapp3.1\Sender.dll
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\bin\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.AssemblyReference.cache
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\obj\Debug\netcoreapp3.1\Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CoreCompileInputs.cache
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CopyComplete
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\obj\Debug\netcoreapp3.1\Sender.dll
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\obj\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\amonakali\source\repos\WongaAssessment\Sender\obj\Debug\netcoreapp3.1\Sender.genruntimeconfig.cache
